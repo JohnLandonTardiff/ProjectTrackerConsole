@@ -1,0 +1,12 @@
+C:\Users\John Landon Tardiff\Desktop\programing\ProjectTracker\ProjectTracker\bin\Release\netcoreapp3.1\ProjectTracker.exe
+C:\Users\John Landon Tardiff\Desktop\programing\ProjectTracker\ProjectTracker\bin\Release\netcoreapp3.1\ProjectTracker.deps.json
+C:\Users\John Landon Tardiff\Desktop\programing\ProjectTracker\ProjectTracker\bin\Release\netcoreapp3.1\ProjectTracker.runtimeconfig.json
+C:\Users\John Landon Tardiff\Desktop\programing\ProjectTracker\ProjectTracker\bin\Release\netcoreapp3.1\ProjectTracker.runtimeconfig.dev.json
+C:\Users\John Landon Tardiff\Desktop\programing\ProjectTracker\ProjectTracker\bin\Release\netcoreapp3.1\ProjectTracker.dll
+C:\Users\John Landon Tardiff\Desktop\programing\ProjectTracker\ProjectTracker\bin\Release\netcoreapp3.1\ProjectTracker.pdb
+C:\Users\John Landon Tardiff\Desktop\programing\ProjectTracker\ProjectTracker\obj\Release\netcoreapp3.1\ProjectTracker.AssemblyInfoInputs.cache
+C:\Users\John Landon Tardiff\Desktop\programing\ProjectTracker\ProjectTracker\obj\Release\netcoreapp3.1\ProjectTracker.AssemblyInfo.cs
+C:\Users\John Landon Tardiff\Desktop\programing\ProjectTracker\ProjectTracker\obj\Release\netcoreapp3.1\ProjectTracker.csproj.CoreCompileInputs.cache
+C:\Users\John Landon Tardiff\Desktop\programing\ProjectTracker\ProjectTracker\obj\Release\netcoreapp3.1\ProjectTracker.dll
+C:\Users\John Landon Tardiff\Desktop\programing\ProjectTracker\ProjectTracker\obj\Release\netcoreapp3.1\ProjectTracker.pdb
+C:\Users\John Landon Tardiff\Desktop\programing\ProjectTracker\ProjectTracker\obj\Release\netcoreapp3.1\ProjectTracker.genruntimeconfig.cache
