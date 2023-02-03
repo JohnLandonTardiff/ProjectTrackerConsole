@@ -1,0 +1,15 @@
+C:\Users\jt1015829\source\repos\ProjectTracker\ProjectTracker\obj\Debug\net6.0\ProjectTracker.csproj.AssemblyReference.cache
+C:\Users\jt1015829\source\repos\ProjectTracker\ProjectTracker\obj\Debug\net6.0\ProjectTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jt1015829\source\repos\ProjectTracker\ProjectTracker\obj\Debug\net6.0\ProjectTracker.AssemblyInfoInputs.cache
+C:\Users\jt1015829\source\repos\ProjectTracker\ProjectTracker\obj\Debug\net6.0\ProjectTracker.AssemblyInfo.cs
+C:\Users\jt1015829\source\repos\ProjectTracker\ProjectTracker\obj\Debug\net6.0\ProjectTracker.csproj.CoreCompileInputs.cache
+C:\Users\jt1015829\source\repos\ProjectTracker\ProjectTracker\bin\Debug\net6.0\ProjectTracker.exe
+C:\Users\jt1015829\source\repos\ProjectTracker\ProjectTracker\bin\Debug\net6.0\ProjectTracker.deps.json
+C:\Users\jt1015829\source\repos\ProjectTracker\ProjectTracker\bin\Debug\net6.0\ProjectTracker.runtimeconfig.json
+C:\Users\jt1015829\source\repos\ProjectTracker\ProjectTracker\bin\Debug\net6.0\ProjectTracker.dll
+C:\Users\jt1015829\source\repos\ProjectTracker\ProjectTracker\bin\Debug\net6.0\ProjectTracker.pdb
+C:\Users\jt1015829\source\repos\ProjectTracker\ProjectTracker\obj\Debug\net6.0\ProjectTracker.dll
+C:\Users\jt1015829\source\repos\ProjectTracker\ProjectTracker\obj\Debug\net6.0\refint\ProjectTracker.dll
+C:\Users\jt1015829\source\repos\ProjectTracker\ProjectTracker\obj\Debug\net6.0\ProjectTracker.pdb
+C:\Users\jt1015829\source\repos\ProjectTracker\ProjectTracker\obj\Debug\net6.0\ProjectTracker.genruntimeconfig.cache
+C:\Users\jt1015829\source\repos\ProjectTracker\ProjectTracker\obj\Debug\net6.0\ref\ProjectTracker.dll
